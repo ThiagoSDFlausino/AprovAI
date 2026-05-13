@@ -1,0 +1,3 @@
+[submodule "AprovAI/3.Implementacao/AprovAI_Codigo-Fonte"]
+	path = AprovAI/3.Implementacao/AprovAI_Codigo-Fonte
+	url = https://github.com/ThiagoSDFlausino/AprovAI_Codigo-Fonte.git
