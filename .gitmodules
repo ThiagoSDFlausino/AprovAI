@@ -4,3 +4,6 @@
 [submodule "AprovAI/3.Implementacao/--force"]
 	path = AprovAI/3.Implementacao/--force
 	url = https://github.com/ThiagoSDFlausino/AprovAI_Codigo-Fonte.git
+[submodule "AprovAI/3.Implementacao/--AprovAI_Codigo_Fonte"]
+	path = AprovAI/3.Implementacao/--AprovAI_Codigo_Fonte
+	url = https://github.com/ThiagoSDFlausino/AprovAI_Codigo-Fonte.git
